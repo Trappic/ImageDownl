@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
     Button button;
     private ProgressDialog progressDialog;
-    ImageView imageView;
     public static final int progressType = 0;
 
     // image url to download
